@@ -1,0 +1,7 @@
+C:\Users\Popov\source\repos\JitBit-MacroRecorder\JitBit.Keygen\bin\Debug\JitBit.Keygen.exe.config
+C:\Users\Popov\source\repos\JitBit-MacroRecorder\JitBit.Keygen\bin\Debug\JitBit.Keygen.exe
+C:\Users\Popov\source\repos\JitBit-MacroRecorder\JitBit.Keygen\bin\Debug\JitBit.Keygen.pdb
+C:\Users\Popov\source\repos\JitBit-MacroRecorder\JitBit.Keygen\obj\Debug\JitBit.Keygen.csproj.CoreCompileInputs.cache
+C:\Users\Popov\source\repos\JitBit-MacroRecorder\JitBit.Keygen\obj\Debug\JitBit.Keygen.exe
+C:\Users\Popov\source\repos\JitBit-MacroRecorder\JitBit.Keygen\obj\Debug\JitBit.Keygen.pdb
+C:\Users\Popov\source\repos\JitBit-MacroRecorder\JitBit.Keygen\obj\Debug\JitBit.Keygen.csprojAssemblyReference.cache
